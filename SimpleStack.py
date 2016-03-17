@@ -1,5 +1,6 @@
 """
 This Program makes A Simple Stack Using Lists
+the program will exit when the stack is empty and the user insert 'e'
 """
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
